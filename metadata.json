@@ -1,0 +1,6 @@
+{
+  "name": "Aura Sound",
+  "description": "Modern premium e-commerce 3D product showcase for Aura Sound high-end audio brand, featuring an interactive, customizable 3D headphone model.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
